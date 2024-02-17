@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Suchita-DevStore/static/css/main.612ac580.css",
+    "main.js": "/Suchita-DevStore/static/js/main.8f661629.js",
+    "static/media/cat-1.jpg": "/Suchita-DevStore/static/media/cat-1.aa15048c6d1dc6572a81.jpg",
+    "static/media/main_pic.png": "/Suchita-DevStore/static/media/main_pic.9109dbc00df1285473ee.png",
+    "static/media/newsletter-new.jpg": "/Suchita-DevStore/static/media/newsletter-new.2f5c581dcac2754b8451.jpg",
+    "static/media/earbuds.jpg": "/Suchita-DevStore/static/media/earbuds.9546334a5a40df1762a8.jpg",
+    "index.html": "/Suchita-DevStore/index.html",
+    "main.612ac580.css.map": "/Suchita-DevStore/static/css/main.612ac580.css.map",
+    "main.8f661629.js.map": "/Suchita-DevStore/static/js/main.8f661629.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.612ac580.css",
+    "static/js/main.8f661629.js"
+  ]
+}
